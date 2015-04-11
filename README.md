@@ -5,26 +5,35 @@ Gnome Shell to match Evopop GTK and icons themes
 * https://github.com/solus-project/evopop-icon-theme
 * https://github.com/solus-project/evopop-gtk-theme
 
-This is work in progress, it inherits Adwaita theming and it has known and uknown unfinished things and bugs.
+This is work in progress, it inherits Adwaita theming and it has known and uknown unfinished things and bugs. 
+Read the [changelogs.](https://github.com/alex285/evopop-shell-dist/wiki/Whats-New)
 
 ###Installing
 Clone repository
+
 ```
 git clone --depth 1 https://github.com/alex285/evopop-shell-dist.git
 ```
+
 Rename folder (optional)
+
 ```
 mv evopop-shell-dist Evopop-Shell
 ```
 
 Move folder on ~/.themes
+
 ```
 mv Evopop-Shell ~/.themes
 ```
+
 Select it with Gnome Tweak Tool
 
-For Arch you can use AUR
+___
+#####For Arch you can use AUR
+
 * https://aur.archlinux.org/packages/evopop-shell-theme-git/
+
 ```
 yaourt evopop-shell-theme-git
 ```
