@@ -1,9 +1,10 @@
 {
-  "name": "evopop-shell-theme",
-  "version": "0.1.0",
-  "description": "GNOME Shell Theme for Evopop",    
-  "homepage": "https://github.com/alex285",
-  "github": "https://github.com/alex285",
+  "name": "evopop-shell-dist",
+  "version": "0.1.1",
+  "description": "GNOME Shell Theme for GNOME 3.16 for Evopop",    
+  "homepage": "https://github.com/alex285/evopop-shell-dist/wiki",
+  "changelogs": "https://github.com/alex285/evopop-shell-dist/wiki/Whats-New", 	
+  "github": "https://github.com/alex285/evopop-shell-dist",
   "author": {
     "name": "alex285",
     "email": "alexis.diavatis@hotmail.com",
@@ -12,13 +13,13 @@
   
   "repository": {
     "type": "git",
-    "url": "https://github.com/alex285"
+    "url": "https://github.com/alex285/evopop-shell-dist"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/alex285/evopop-shell-dist/issues"
   },
   "license": {
-      "type": "GPL"      
+      "type": "GPL v3"      
   },
   "dependencies": {    
     "stylus": "0.50.0",
