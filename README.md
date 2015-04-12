@@ -6,7 +6,7 @@ Gnome Shell to match Evopop GTK and icons themes
 * https://github.com/solus-project/evopop-gtk-theme
 
 This is work in progress, it inherits Adwaita theming and it has known and uknown unfinished things and bugs. 
-Current version [0.1.4](https://github.com/alex285/evopop-shell-dist/wiki/Whats-New)
+Current version [0.1.5](https://github.com/alex285/evopop-shell-dist/wiki/Whats-New)
 
 ###Installing
 Clone repository
