@@ -15,7 +15,7 @@ Current version is [0.1.7](https://github.com/alex285/evopop-shell-dist/wiki/Wha
 - Popup menu colors fade in/out is broken. That is GNOME Shell bug, that we cannot work around
 with multiple colors :/
 
-- **Left 2 Right support**, is not really supported as there is no way to try it. This will mostly lead
+- **Right 2 Left support**, is not really supported as there is no way to try it. This will mostly lead
 on padding and radius bugs
 
 ---
