@@ -1,10 +1,9 @@
 {
-  "name": "evopop-shell-dist",
-  "version": "0.1.2",
-  "description": "GNOME Shell Theme for GNOME 3.16 for Evopop",    
-  "homepage": "https://github.com/alex285/evopop-shell-dist/wiki",
-  "changelogs": "https://github.com/alex285/evopop-shell-dist/wiki/Whats-New", 	
-  "github": "https://github.com/alex285/evopop-shell-dist",
+  "name": "evopop-shell-theme",
+  "version": "0.1.0",
+  "description": "GNOME Shell Theme for Evopop",    
+  "homepage": "https://github.com/alex285/evopop-gnome-shell-theme",
+  "github": "https://github.com/alex285/evopop-gnome-shell-theme",
   "author": {
     "name": "alex285",
     "email": "alexis.diavatis@hotmail.com",
@@ -13,13 +12,13 @@
   
   "repository": {
     "type": "git",
-    "url": "https://github.com/alex285/evopop-shell-dist"
+    "url": "https://github.com/alex285/evopop-gnome-shell-theme"
   },
   "bugs": {
-    "url": "https://github.com/alex285/evopop-shell-dist/issues"
+    "url": ""
   },
   "license": {
-      "type": "GPL v3"      
+      "type": "GPL"      
   },
   "dependencies": {    
     "stylus": "0.50.0",
@@ -30,9 +29,9 @@
     "chalk": "^1.0.0",
     "gulp-stylus": "^2.0.1",
     "gulp-shell": "0.3.0",
-    "gulp-concat": "^2.5.2",  
-    "ncp": "^2.0.0",
-    "gulp-notify": "^2.2.0"
+    "gulp-concat": "^2.5.2", 
+    "gulp-notify": "^2.2.0",
+		"fs-extra": "^0.18.2"
   }  
 }  
     
