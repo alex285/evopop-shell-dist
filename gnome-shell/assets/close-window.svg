@@ -23,17 +23,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1355"
-     inkscape:window-height="998"
+     inkscape:window-width="1680"
+     inkscape:window-height="978"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="5.6568545"
-     inkscape:cx="23.212376"
-     inkscape:cy="0.741933"
-     inkscape:window-x="46"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2">
+     inkscape:cx="-7.635156"
+     inkscape:cy="0.38837963"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4141">
     <inkscape:grid
        type="xygrid"
        id="grid4133" />
@@ -58,7 +58,7 @@
        inkscape:connector-curvature="0"
        id="path3338"
        d="M 24,2.0000043 A 22,22 0 0 0 2.0000003,24.000004 22,22 0 0 0 24,46.000004 a 22,22 0 0 0 22,-22 A 22,22 0 0 0 24,2.0000043 Z m 7.881695,11.8962047 c 0.567986,0 1.136218,0.215443 1.571428,0.650669 0.870437,0.870433 0.870437,2.272427 0,3.142857 l -6.310266,6.310269 6.285714,6.285714 c 0.870433,0.870433 0.870433,2.272424 0,3.142857 -0.870433,0.870433 -2.272424,0.870433 -3.142857,0 L 24,27.142861 17.738839,33.404023 c -0.870432,0.870427 -2.272424,0.870427 -3.142857,0 -0.870432,-0.870433 -0.870432,-2.272427 0,-3.14286 l 6.261161,-6.261159 -6.285714,-6.285714 c -0.870433,-0.870433 -0.870433,-2.272424 0,-3.142857 0.870432,-0.870433 2.272424,-0.870433 3.142857,0 L 24,20.857147 30.310266,14.546878 c 0.435217,-0.435214 1.003448,-0.650669 1.571429,-0.650669 z"
-       style="fill:#d63f5b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.49999952;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#13b1d5;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.49999952;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="path3338-2"
