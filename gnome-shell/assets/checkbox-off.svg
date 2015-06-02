@@ -7,18 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="-768 0 0 16"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   width="48"
-   height="48"
-   sodipodi:docname="checkbox-off.svg"
-   inkscape:export-filename="/home/poltertec/Downloads/assets/checkbox-unchecked-insensitive@2.png"
-   inkscape:export-xdpi="180"
-   inkscape:export-ydpi="180">
+   sodipodi:docname="checkbox-off.svg">
   <metadata
-     id="metadata16">
+     id="metadata10">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -30,7 +27,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs14" />
+     id="defs8" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -41,33 +38,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="998"
-     id="namedview12"
-     showgrid="true"
-     inkscape:zoom="8.6249964"
-     inkscape:cx="6.65975"
-     inkscape:cy="2.3853019"
+     inkscape:window-height="978"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="12.20339"
+     inkscape:cy="12"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g4135"
-     showguides="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4139"
-       empspacing="4" />
-  </sodipodi:namedview>
-  <g
-     id="g4135"
-     transform="matrix(3.0000012,0,0,3.0000012,-0.26517544,-0.27542646)">
-    <rect
-       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.99999952;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4136"
-       width="14.999994"
-       height="14.999994"
-       x="0.58839142"
-       y="0.59180844"
-       rx="0.99999964"
-       ry="0.99999964" />
-  </g>
+     inkscape:current-layer="svg2" />
+  <path
+     d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+     id="path4"
+     style="fill:#505359;fill-opacity:1" />
 </svg>
